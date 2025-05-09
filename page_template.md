@@ -41,9 +41,9 @@ Achiever - Restorative - Learner - Activator - Command
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [LinkedIn](https://www.linkedin.com/in/samantha-ullman-975812241/)  
 - [GitHub](https://github.com/yourusername)  
-- [Email Me](mailto:yourname@university.edu)
+- [Email Me](mailto:samanthaullman@gmail.com)
 
 ---
 

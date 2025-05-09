@@ -1,4 +1,5 @@
 # Sammy Ullman 
+![Placeholder image]() 
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
@@ -25,16 +26,14 @@ Achiever - Restorative - Learner - Activator - Command
 
 ## Projects
 
-### Project 1: Title of Your Project
-![Screenshot of project](images/project1.png)  
-*Brief description of the project goes here. Include what tools/languages you used and what the outcome was.*
+### Project 1: Water Systems Evaluation 
+Provided a statistical summary of violations in Nebraska by public water type, evaluation of Contaminants by PWS type and population category, and created a table based on PWS Type, Contaminant, Population Category, Violation Type. Overall outcome found serious violations of contaminants in water systems 
 
 [View the code](https://github.com/yourusername/project1)
 
 ---
 
-### Project 2: Another Project
-![Placeholder image](images/project2.jpg)  
+### Project 2:  
 *A short description of this project. What problem did it solve? What did you learn?*
 
 ---

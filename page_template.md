@@ -1,4 +1,4 @@
-# Your Full Name
+# Sammy Ullman 
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
@@ -6,8 +6,10 @@ Welcome to my personal website! Here you'll find information about my background
 
 ## About Me
 
-I am an undergraduate student in Civil Engineering at the University of Nebraska-Lincoln.  
-My interests include *data analytics*, and `Python programming`.
+I am currently a sophomore at the University of Nebraska-Lincoln studying Civil Engineering. Through my classes I have found interest in building, designing, and creating as well as working with others, which has led me to purse an engineering degree. I hope to positively impact the communities I work in, as well as others around me through my career. 
+
+Gallup Strengths 
+Achiever - Restorative - Learner - Activator - Command
 
 ---
 

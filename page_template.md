@@ -47,6 +47,8 @@ The group imported clean data and data analysis, created visualizations of trend
 ### Project 4:  
 The group identified bias and created visual comparisons of risk factors in two states. The two states that our group had selected were Montana and Colorado. While creating the code, we found there were various NA/missing values that could make the risk value produced by NRI biased. To limit bias, we removed these values and replaced them with values that python code read. This allowed for more accurate graphs for comparison. Overall, python tool found that both states has bias within the datasets and that once removed, graphs became more accurate. 
 
+[View the code](https://github.com/samanthaullman/SamanthaUllman/blob/main/CIVE202_Spring2025_GroupK_Project%234_PythonCode%20(1).ipynb)
+
 ---
 
 ### Project 5:  

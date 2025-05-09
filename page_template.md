@@ -28,7 +28,7 @@ Achiever - Restorative - Learner - Activator - Command
 ### Project 1: Water Systems Evaluation 
 We provided a statistical summary of violations in Nebraska by public water type, evaluation of Contaminants by PWS type and population category, and created a table based on PWS Type, Contaminant, Population Category, Violation Type. Overall, python tool found serious violations of contaminants in water systems.
 
-[View the code](https://github.com/samanthaullman/project1)
+[View the code](https://github.com/samanthaullman/SamanthaUllman/blob/main/CIVE202_Spring2025_GroupSammyUllman_Project%231_Nebraska_Violations_Analysis.ipynb)
 
 ---
 

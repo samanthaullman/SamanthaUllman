@@ -1,5 +1,5 @@
 # Sammy Ullman 
-![Placeholder image]() 
+![Placeholder image](23.PKS.Ullman_Samantha.4947.RT.jpeg) 
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 

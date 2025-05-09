@@ -28,7 +28,7 @@ Achiever - Restorative - Learner - Activator - Command
 ### Project 1: Water Systems Evaluation 
 We provided a statistical summary of violations in Nebraska by public water type, evaluation of Contaminants by PWS type and population category, and created a table based on PWS Type, Contaminant, Population Category, Violation Type. Overall, python tool found serious violations of contaminants in water systems.
 
-[View the code](https://github.com/yourusername/project1)
+[View the code](https://github.com/samanthaullman/project1)
 
 ---
 
@@ -39,6 +39,8 @@ We created a python tool that helped the firm solve standard static calculations
 
 ### Project 3:  
 The group imported clean data and data analysis, created visualizations of trends in the data, and monitored and recorded the time it takes to create the tool. Overall, python tool created various graphs to show trends in data for the  client. 
+
+[View the code](https://github.com/samanthaullman/SamanthaUllman/blob/main/CIVE202_Spring2025_GroupJ_Project%233_PythonCode.ipynb)
 
 ---
 
@@ -55,7 +57,7 @@ The group created a python tool that automated concrete mix designs based on use
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/samantha-ullman-975812241/)  
-- [GitHub](https://github.com/yourusername)  
+- [GitHub](https://github.com/samanthaullman)  
 - [Email Me](mailto:samanthaullman@gmail.com)
 
 ---

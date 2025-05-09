@@ -35,6 +35,8 @@ We provided a statistical summary of violations in Nebraska by public water type
 ### Project 2:  
 We created a python tool that helped the firm solve standard static calculations. The program included the ability to perform unit conversion and analysis, the ability to handle distributed and point loads acting on static members, and the flexibility to provide consistent calculations in response to variable user inputs including load, magnitude, location, and angle of application. Overall, python tool was able to solve statics problems for the client in a timely manner. 
 
+[View the code](https://github.com/samanthaullman/SamanthaUllman/blob/main/SammyUllmanProblem2.3.Final.ipynb)
+
 ---
 
 ### Project 3:  

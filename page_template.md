@@ -54,6 +54,8 @@ The group identified bias and created visual comparisons of risk factors in two 
 ### Project 5:  
 The group created a python tool that automated concrete mix designs based on user specifications. To create the tool, we took the different required values needed for a concrete mix design and asked the user for different inputs. The inputs were then changed into float or integer values once in the python tool. Then, our group created a function that defined all the numbers for the mix design. The inputs were plugged into formulas that helped automate the concrete mix design. 
 
+[View the code](https://github.com/samanthaullman/SamanthaUllman/blob/main/CIVE202_Spring2025_GroupQ_Project%235_PythonCode.ipynb)
+
 ---
 
 ## Connect With Me

@@ -1,6 +1,5 @@
 # Sammy Ullman 
-![](images/23.PKS.Ullman_Samantha.4947.RT.jpg) 
-
+<img src="23.PKS.Ullman_Samantha.4947.RT.jpg" alt="Sammy Ullman" width="300">
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
 ---
